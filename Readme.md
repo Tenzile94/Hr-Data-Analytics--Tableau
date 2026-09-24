@@ -46,4 +46,4 @@ patterns related to employee attrition and employee characteristics.
 ## 📁 Project Files
 
 - `HR_Analytics_Dashboard.twbx` — Tableau workbook
-- `images/dashboard.png` — Dashboard preview
+- `dashboard.png` — Dashboard preview
